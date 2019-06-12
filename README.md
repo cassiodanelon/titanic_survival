@@ -1,2 +1,2 @@
 # titanic_survival
-Titanic survival analysis by deep learning methods
+Titanic survival analysis by machine learning methods
